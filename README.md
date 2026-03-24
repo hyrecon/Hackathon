@@ -1,6 +1,6 @@
 # 🛒 Barrier-Free Smart Auto Shopping Cart
 
-> Making shopping accessible for everyone — from children to the elderly.
+> Breaking down shopping barriers for people with disabilities, the elderly, and beyond.
 
 ## 📌 What is this?
 
