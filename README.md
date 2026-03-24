@@ -28,7 +28,7 @@ Arduino UNO · Arduino MEGA · breadboard · 3D printing filament · 2mm acrylic
 
 | Name | Dept. |
 |---|---|
-| Hanyeol Ryu | Electronics Engineering, PNU |
+| Hanyeol Ryu (Team leader) | Electronics Engineering, PNU |
 | Seokhwan Baek | Aerospace Engineering, PNU |
 | Sujeong Lee | Mechanical Engineering, PNU |
 | Jisu Yeo | Computer Science and Engineering, PNU |
