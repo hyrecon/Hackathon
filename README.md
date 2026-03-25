@@ -20,7 +20,7 @@ While the cart was primarily designed with visually impaired shoppers in mind, t
 
 ## 🛠️ Built With
 
-`Arduino IDE` · `Fusion 360`
+`Arduino` · `C++` · `Fusion 360`
 
 Arduino UNO · Arduino MEGA · breadboard · 3D printing filament · 2mm acrylic sheets · voice recognition mic & module · 4x DC motors · 4x wheels · MP3 DFPlayer Mini · speaker · 2x RFID modules · 3x IR sensors · 2x piezo buzzers · 3x push buttons · 4x LEDs · joystick · ultrasonic sensor · L293D motor driver shield · bolts & nuts
 
